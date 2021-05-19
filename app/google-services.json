@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774764363440",
+    "firebase_url": "https://dise-94e9a-default-rtdb.firebaseio.com",
+    "project_id": "dise-94e9a",
+    "storage_bucket": "dise-94e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774764363440:android:a17e3a2d05485054820575",
+        "android_client_info": {
+          "package_name": "ac.id.pei.rpl.dise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774764363440-i9gh4f6avb8jmlg5euv81m125ood055k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxc5-nh-z1eHy3lxIumDbseGe2P6c7j4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774764363440-i9gh4f6avb8jmlg5euv81m125ood055k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
